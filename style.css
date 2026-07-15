@@ -1,0 +1,233 @@
+/* ---------- تنظیمات کلی ---------- */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+
+    font-family:'Vazirmatn',sans-serif;
+
+    background:#f7f3ee;
+
+    color:#3a2d23;
+
+    direction:rtl;
+
+}
+
+.container{
+
+    max-width:700px;
+
+    margin:auto;
+
+    padding:20px;
+
+}
+
+/* ---------- هدر ---------- */
+
+header{
+
+    text-align:center;
+
+    margin-bottom:25px;
+
+}
+
+.logo{
+
+    width:120px;
+
+    border-radius:50%;
+
+    margin-bottom:15px;
+
+    box-shadow:0 10px 25px rgba(0,0,0,.15);
+
+}
+
+h1{
+
+    font-size:30px;
+
+    margin-bottom:8px;
+
+}
+
+header p{
+
+    color:#8a6d4a;
+
+    font-size:15px;
+
+}
+
+/* ---------- جستجو ---------- */
+
+.search-box{
+
+    margin:25px 0;
+
+}
+
+.search-box input{
+
+    width:100%;
+
+    padding:15px;
+
+    border:none;
+
+    outline:none;
+
+    border-radius:15px;
+
+    font-size:16px;
+
+    background:white;
+
+    box-shadow:0 5px 15px rgba(0,0,0,.08);
+
+}
+
+/* ---------- دسته بندی ---------- */
+
+.category{
+
+    background:white;
+
+    margin-bottom:15px;
+
+    border-radius:18px;
+
+    overflow:hidden;
+
+    box-shadow:0 8px 18px rgba(0,0,0,.08);
+
+}
+
+.category-header{
+
+    padding:18px;
+
+    cursor:pointer;
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    font-weight:bold;
+
+    font-size:18px;
+
+    color:#5b3f24;
+
+}
+
+.category-header span{
+
+    color:#b38a4d;
+
+    font-size:22px;
+
+}
+
+.category-body{
+
+    display:none;
+
+    padding:15px;
+
+    border-top:1px solid #eee;
+
+}
+
+/* ---------- محصولات ---------- */
+
+.item{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    padding:15px 0;
+
+    border-bottom:1px dashed #ddd;
+
+}
+
+.item:last-child{
+
+    border:none;
+
+}
+
+.item-name{
+
+    display:flex;
+
+    flex-direction:column;
+
+}
+
+.item-name strong{
+
+    font-size:16px;
+
+}
+
+.item-name small{
+
+    color:#999;
+
+    margin-top:3px;
+
+}
+
+.price{
+
+    font-weight:bold;
+
+    color:#7b5328;
+
+}
+
+/* ---------- فوتر ---------- */
+
+footer{
+
+    text-align:center;
+
+    margin:40px 0 20px;
+
+    color:#999;
+
+    font-size:13px;
+
+}
+
+/* ---------- موبایل ---------- */
+
+@media(max-width:500px){
+
+h1{
+
+font-size:25px;
+
+}
+
+.category-header{
+
+font-size:16px;
+
+}
+
+}
