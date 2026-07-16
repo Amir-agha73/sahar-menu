@@ -166,7 +166,7 @@ items:[
 },
 
 {
-title_fa:"🥐 کروسان و بن سوئیسی",
+title_fa:"🥐 کروسان",
 title_en:"Croissants & Swiss Buns",
 
 items:[
