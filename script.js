@@ -38,7 +38,9 @@ items:[
 
 {name_fa:"آیس موکا",name_en:"Iced Mocha",price:350000,active:true},
 
-{name_fa:"آیس کارامل ماکیاتو",name_en:"Iced Caramel Macchiato",price:350000,active:true}
+{name_fa:"آیس کارامل ماکیاتو",name_en:"Iced Caramel Macchiato",price:350000,active:true},
+
+{name_fa:"فراپاچینو",name_en:"Frappuccino",price:380000,active:true},
 
 ]
 
@@ -74,9 +76,11 @@ items:[
 
 {name_fa:"موهیتو",name_en:"Mojito",price:250000,active:true},
 
-{name_fa:"موکتل رد پن",name_en:"Red Punch Mocktail",price:250000,active:true},
+{name_fa:"موکتل رد پشن",name_en:"Red Punch Mocktail",price:250000,active:true},
 
-{name_fa:"لیموناد",name_en:"Lemonade",price:250000,active:true}
+{name_fa:"لیموناد",name_en:"Lemonade",price:250000,active:true},
+
+{name_fa:"آیس چاکلت",name_en:"Iced Chocolate",price:295000,active:true}
 
 ]
 
@@ -110,9 +114,9 @@ items:[
 
 {name_fa:"لقمه پروتئین",name_en:"Protein Roll",price:190000,active:true},
 
-{name_fa:"ساندویچ لوبیه",name_en:"Loubieh Sandwich",price:240000,active:true},
+{name_fa:"ساندویچ الویه",name_en:"Loubieh Sandwich",price:240000,active:true},
 
-{name_fa:"کلتت",name_en:"Cutlet Sandwich",price:240000,active:true}
+{name_fa:"کتلت",name_en:"Cutlet Sandwich",price:240000,active:true}
 
 ]
 
@@ -153,7 +157,9 @@ items:[
 
 {name_fa:"فرزیه وانیلی",name_en:"Vanilla Fraisier",price:425000,active:true},
 
-{name_fa:"فرزیه شکلاتی",name_en:"Chocolate Fraisier",price:450000,active:true}
+{name_fa:"فرزیه شکلاتی",name_en:"Chocolate Fraisier",price:450000,active:true},
+
+{name_fa:"بستنی",name_en:"Ice Cream",price:195000,active:true}
 
 ]
 
@@ -173,7 +179,7 @@ items:[
 
 {name_fa:"کروسان پسته",name_en:"Pistachio Croissant",price:290000,active:true},
 
-{name_fa:"بن سوئیسی",name_en:"Swiss Bun",price:180000,active:true}
+{name_fa:"پن سوئیس",name_en:"Swiss Bun",price:180000,active:true}
 
 ]
 
@@ -213,9 +219,9 @@ items:[
 
 {name_fa:"دونات دارچین",name_en:"Cinnamon Donut",price:105000,active:true},
 
-{name_fa:"دونات هویج",name_en:"Carrot Donut",price:250000,active:true},
+{name_fa:"دونات هوبی",name_en:"Carrot Donut",price:250000,active:true},
 
-{name_fa:"دونات هویج کارامل",name_en:"Carrot Caramel Donut",price:270000,active:true}
+{name_fa:"دونات هوبی نارگیل",name_en:"Carrot Caramel Donut",price:270000,active:true}
 
 ]
 
