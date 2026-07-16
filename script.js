@@ -167,7 +167,7 @@ items:[
 
 {
 title_fa:"🥐 کروسان",
-title_en:"Croissants & Swiss Buns",
+title_en:"Croissants",
 
 items:[
 
