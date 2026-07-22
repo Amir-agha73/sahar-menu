@@ -221,7 +221,7 @@ items:[
 
 {name_fa:"دونات دارچین",name_en:"Cinnamon Donut",price:105000,active:true},
 
-{name_fa:"دونات هوبی",name_en:"Carrot Donut",price:250000,active:true},
+{name_fa:"دونات هوبی",name_en:"Hobby Donut",price:250000,active:true},
 
 {name_fa:"دونات هوبی نارگیل",name_en:"Carrot Caramel Donut",price:270000,active:true}
 
