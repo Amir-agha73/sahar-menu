@@ -16,7 +16,7 @@ items:[
 
 {name_fa:"کارامل ماکیاتو",name_en:"Caramel Macchiato",price:335000,active:true},
 
-{name_fa:"موکا",name_en:"Mocha",price:315000,active:true},
+{name_fa:"موکا",name_en:"Mocha",price:335000,active:true},
 
 {name_fa:"قهوه دمی",name_en:"Pour Over Coffee",price:375000,active:true},
 
@@ -94,7 +94,7 @@ items:[
 
 {name_fa:"چاباتای مرغ پستو",name_en:"Chicken Pesto Ciabatta",price:480000,active:false},
 
-{name_fa:"ساندویچ مرغ تریاکی",name_en:"Teriyaki Chicken",price:445000,active:true},
+{name_fa:"ساندویچ مرغ تریاکی",name_en:"Teriyaki Chicken",price:425000,active:true},
 
 {name_fa:"ساندویچ مرغ رژیمی",name_en:"Healthy Chicken",price:475000,active:true},
 
@@ -102,7 +102,7 @@ items:[
 
 {name_fa:"ساندویچ بیف اسموکی",name_en:"Smoked Beef",price:395000,active:true},
 
-{name_fa:"ساندویچ فیله بره",name_en:"Lamb Fillet",price:420000,active:true},
+{name_fa:"ساندویچ فیله بره",name_en:"Lamb Fillet",price:430000,active:true},
 
 {name_fa:"ساندویچ فیله بوقلمون",name_en:"Turkey Fillet",price:490000,active:true},
 
@@ -110,13 +110,13 @@ items:[
 
 {name_fa:"لقمه پنیر گردو و ریحان",name_en:"Cheese Walnut Basil",price:220000,active:true},
 
-{name_fa:"سیمیت ارده خرما سیب",name_en:"Tahini Date Apple",price:210000,active:true},
+{name_fa:"سیمیت ارده خرما سیب",name_en:"Tahini Date Apple",price:310000,active:true},
 
 {name_fa:"لقمه پروتئین",name_en:"Protein Roll",price:190000,active:true},
 
 {name_fa:"ساندویچ الویه",name_en:"Loubieh Sandwich",price:240000,active:true},
 
-{name_fa:"کتلت",name_en:"Cutlet Sandwich",price:240000,active:true}
+{name_fa:"کتلت",name_en:"Cutlet Sandwich",price:340000,active:true}
 
 ]
 
@@ -159,6 +159,8 @@ items:[
 
 {name_fa:"فرزیه شکلاتی",name_en:"Chocolate Fraisier",price:450000,active:true},
 
+{name_fa:"آفوگاتو",name_en:"Affogato",price:410000,active:true},
+
 {name_fa:"بستنی",name_en:"Ice Cream",price:195000,active:true}
 
 ]
@@ -179,7 +181,7 @@ items:[
 
 {name_fa:"کروسان پسته",name_en:"Pistachio Croissant",price:290000,active:true},
 
-{name_fa:"پن سوئیس",name_en:"Swiss Bun",price:180000,active:true}
+{name_fa:"پن سوئیس",name_en:"Swiss Bun",price:190000,active:true}
 
 ]
 
@@ -197,13 +199,13 @@ items:[
 
 {name_fa:"پاریس برست شکلات",name_en:"Chocolate Paris Brest",price:490000,active:true},
 
-{name_fa:"تارت بادام گیلاسی",name_en:"Cherry Almond Tart",price:340000,active:true},
+{name_fa:"تارت بادام گیلاسی",name_en:"Cherry Almond Tart",price:342000,active:true},
 
 {name_fa:"تارت توت فرنگی",name_en:"Strawberry Tart",price:330000,active:true},
 
-{name_fa:"تارت بادام شکلات",name_en:"Chocolate Almond Tart",price:330000,active:true},
+{name_fa:"تارت بادام شکلات",name_en:"Chocolate Almond Tart",price:390000,active:true},
 
-{name_fa:"تارت بری",name_en:"Berry Tart",price:330000,active:true}
+{name_fa:"تارت بری",name_en:"Berry Tart",price:360000,active:true}
 
 ]
 
@@ -219,7 +221,7 @@ items:[
 
 {name_fa:"دونات دارچین",name_en:"Cinnamon Donut",price:105000,active:true},
 
-{name_fa:"دونات هوبی",name_en:"Carrot Donut",price:250000,active:true},
+{name_fa:"دونات هوبی",name_en:"Carrot Donut",price:320000,active:true},
 
 {name_fa:"دونات هوبی نارگیل",name_en:"Carrot Caramel Donut",price:270000,active:true}
 
