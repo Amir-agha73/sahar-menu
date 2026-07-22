@@ -217,11 +217,11 @@ title_en:"Donuts",
 
 items:[
 
-{name_fa:"دونات فندق",name_en:"Hazelnut Donut",price:220000,active:true},
+{name_fa:"دونات فندق",name_en:"Hazelnut Donut",price:320000,active:true},
 
 {name_fa:"دونات دارچین",name_en:"Cinnamon Donut",price:105000,active:true},
 
-{name_fa:"دونات هوبی",name_en:"Carrot Donut",price:320000,active:true},
+{name_fa:"دونات هوبی",name_en:"Carrot Donut",price:250000,active:true},
 
 {name_fa:"دونات هوبی نارگیل",name_en:"Carrot Caramel Donut",price:270000,active:true}
 
